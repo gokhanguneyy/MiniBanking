@@ -5,6 +5,17 @@ VisualStudioVersion = 17.14.36705.20 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniBanking.Api", "MiniBanking.Api.csproj", "{2040314D-545C-4073-809B-E6298B0B8B05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniBanking.Domain", "..\MiniBanking.Domain\MiniBanking.Domain.csproj", "{F5DEC98C-99AD-404C-9F37-760DAEE3B62F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniBanking.Application", "..\MiniBanking.Application\MiniBanking.Application.csproj", "{62DF50C6-0275-4D9C-8D11-05E4597330E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniBanking.Infrastructure", "..\MiniBanking.Infrastructure\MiniBanking.Infrastructure.csproj", "{10418315-3E7A-4433-B502-018E47264AA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +26,18 @@ Global
 		{2040314D-545C-4073-809B-E6298B0B8B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2040314D-545C-4073-809B-E6298B0B8B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2040314D-545C-4073-809B-E6298B0B8B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DEC98C-99AD-404C-9F37-760DAEE3B62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DEC98C-99AD-404C-9F37-760DAEE3B62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DEC98C-99AD-404C-9F37-760DAEE3B62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DEC98C-99AD-404C-9F37-760DAEE3B62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DF50C6-0275-4D9C-8D11-05E4597330E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DF50C6-0275-4D9C-8D11-05E4597330E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DF50C6-0275-4D9C-8D11-05E4597330E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DF50C6-0275-4D9C-8D11-05E4597330E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10418315-3E7A-4433-B502-018E47264AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10418315-3E7A-4433-B502-018E47264AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10418315-3E7A-4433-B502-018E47264AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10418315-3E7A-4433-B502-018E47264AA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

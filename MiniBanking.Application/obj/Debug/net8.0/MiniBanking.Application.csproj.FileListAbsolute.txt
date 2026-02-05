@@ -1,0 +1,16 @@
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\bin\Debug\net8.0\MiniBanking.Application.deps.json
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\bin\Debug\net8.0\MiniBanking.Application.dll
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\bin\Debug\net8.0\MiniBanking.Application.pdb
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\bin\Debug\net8.0\MiniBanking.Domain.dll
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\bin\Debug\net8.0\MiniBanking.Domain.pdb
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\MiniBanking.Application.csproj.AssemblyReference.cache
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\MiniBanking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\MiniBanking.Application.AssemblyInfoInputs.cache
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\MiniBanking.Application.AssemblyInfo.cs
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\MiniBanking.Application.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\MiniBanking.Application.sourcelink.json
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\MiniBank.49EC92BA.Up2Date
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\MiniBanking.Application.dll
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\refint\MiniBanking.Application.dll
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\MiniBanking.Application.pdb
+C:\Users\gokha\Documents\GitHub\MiniBanking\MiniBanking.Application\obj\Debug\net8.0\ref\MiniBanking.Application.dll
