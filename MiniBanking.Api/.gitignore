@@ -1,10 +1,93 @@
+############################
 # Visual Studio
+############################
 .vs/
-
-# Build outputs
-bin/
-obj/
-
-# User-specific files
-*.user
 *.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+############################
+# Build Results
+############################
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+out/
+
+############################
+# .NET Core
+############################
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+############################
+# Logs
+############################
+*.log
+logs/
+
+############################
+# NuGet
+############################
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+*.nuget.props
+*.nuget.targets
+
+############################
+# Rider / VSCode
+############################
+.idea/
+.vscode/
+
+############################
+# OS Files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Test Results
+############################
+TestResults/
+*.trx
+
+############################
+# Publish
+############################
+publish/
+*.publishsettings
+
+############################
+# Database Local Files
+############################
+*.mdf
+*.ldf
+
+############################
+# DLL / EXE / PDB
+############################
+*.dll
+*.exe
+*.pdb
+
+############################
+# EF Core
+############################
+Migrations/*.Designer.cs
+
+############################
+# Coverage
+############################
+coverage/
+*.coverage
+*.coveragexml

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniBanking.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f68e68a11c4650b2712779c4dadf05f4aa64382b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3f70fc141540d6893a3b0ec7d3f84267b0bb39c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniBanking.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniBanking.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

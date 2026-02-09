@@ -1,7 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using MiniBanking.Application.Abstractions;
 using MiniBanking.Infrastructure.Persistence;
+using MiniBanking.Infrastructure.Security;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,7 +33,9 @@ namespace MiniBanking.Infrastructure
              */
 
             services.AddDbContext<AppDbContext>(opt =>
-            opt.UseSqlServer(config.GetConnectionString("SqlServer")));
+                opt.UseSqlServer(config.GetConnectionString("SqlServer")));
+
+            services.AddScoped<IJwtTokenService, JwtTokenService>();
 
             return services;
         }
